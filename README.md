@@ -27,7 +27,22 @@
 | **Системный аналитик** | Будет плюсом, если ты знаком с системным дизайном и имеешь опыт проектирования собственных приложений, умеешь понятно донести свои идеи через документацию + имеешь желание разбираться в сложных и запутанных вещах | Опыт расчета метрик и проектирования систем, опыт проектирования api и схем базы данных, опыт ведения документации по проекту и работы в многих других полезных приложениях (как на реальной работе) |
 | **Backend-разработчик** | Очень желательно: ты знаешь основы веб-разработки с выбранным языком и фреймворком (Python->FastAPI, Java->Spring), у тебя есть парочка пет-проектов, ты понимаешь что такое базы данных. А еще ты умеешь пользоваться ИИ-агентами и учишься хотя бы на втором курсе | Опыт работы с Docker и k8s, опыт настройки CI/CD, опыт разработки сложной системы с множеством нюансов, опыт работы с транзакциями в базах данных и межсервисных + узнаешь несколько паттернов проектирования отказоустойчивых систем |
 | **Разработчик TeamLead** | Ждем на эту роль разностороннего разработчика - будет очень круто, если ты учишься хотя бы на 2 курсе и имеешь опыт разработки в команде, понимаешь немного как в backend, так и в frontend, а также понимаешь "требования бизнеса", умеешь договариваться и приоритизировать | Soft-skills, навыки координации разработки в команде, а так же технические навыки и насмотренность, так как ты будешь курировать всю разработку |
-| **Web-разработчик** | Навыки веб-разработки необязательны, если ты готов учится, а если ты уже что-то умеешь - то вообще супер) Ждем творческого человека, если смотришь картинки в Pinterest - то вообще огонь) | Опыт разработки, красивый сайт в портфолио. Также ты будешь постоянно взаимодействовать с backend-разработчиками и разрабатывать интерфейсы взаимодецствия. +Поработаешь с фреймворком Т-Банка для веб-разработки Taiga UI |
+| **Frontend-разработчик** | Навыки веб-разработки необязательны, если ты готов учится, а если ты уже что-то умеешь - то вообще супер) Ждем творческого человека, если смотришь картинки в Pinterest - то вообще огонь) | Опыт разработки, красивый сайт в портфолио. Также ты будешь постоянно взаимодействовать с backend-разработчиками и разрабатывать интерфейсы взаимодецствия. +Поработаешь с фреймворком Т-Банка для веб-разработки Taiga UI |
+
+## Наш стек
+Проверенная база - то, что реально используется прямо сейчас в отрасли
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Taiga UI](https://img.shields.io/badge/Taiga_UI-FF7A00?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## О проекте
 
